@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AmiliaKartika
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning about Machine Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/amilia-kartika
 
 <!---
